@@ -1,2 +1,2 @@
 # Projects-and-Research
-Here I have all of the projects/papers I have worked on during my Masters and Undergrad
+Here I have some of the projects I have worked on during my Masters and Undergrad
